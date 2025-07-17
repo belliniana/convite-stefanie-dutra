@@ -1,5 +1,5 @@
 function abrirMapa() {
-  window.open("https://www.google.com/maps?q=Avenida+Guarulhos,+3051+-+Ponte+Grande,+Guarulhos,+SP", "_blank");
+  window.open("https://maps.app.goo.gl/ah5VPeXMhKcAQiBa6", "_blank");
 }
 
 window.addEventListener('click', () => {
